@@ -2,11 +2,11 @@
 
 ## Topic
 
-### [VM 1 (Master)](#vm1)
+##### [VM 1 (Master)](#vm1)
 
-### [VM 2 (Test)](#vm2)
+##### [VM 2 (Test)](#vm2)
 
-### [VM 3 (Pre-prop)](#vm3)
+##### [VM 3 (Pre-prop)](#vm3)
 
 ## <p id="vm1">VM 1 (Master)</p>
 
