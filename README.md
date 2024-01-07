@@ -1,6 +1,12 @@
 # Assignment - VM
 
-## VM 1 (Master)
+## Topic
+
+### [VM 1 (Master)](https://github.com/softdev-practice/vm-assignment#vm1)
+
+### [VM 2 (Test)](https://github.com/softdev-practice/vm-assignment#vm1)
+
+## <p name="vm1">VM 1 (Master)</p>
 
 ### 1. create vm linux-ubuntu-64
 
@@ -58,3 +64,5 @@ default user
 username: admin
 password: เอามาจาก cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
+
+## <p name="vm2">VM 2 (Test)</p>
