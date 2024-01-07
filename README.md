@@ -4,7 +4,7 @@
 
 ### [VM 1 (Master)](https://github.com/softdev-practice/vm-assignment#vm1)
 
-### [VM 2 (Test)](https://github.com/softdev-practice/vm-assignment#vm1)
+### [VM 2 (Test)](https://github.com/softdev-practice/vm-assignment#vm2)
 
 ## <p name="vm1">VM 1 (Master)</p>
 
