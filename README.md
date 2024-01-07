@@ -6,6 +6,8 @@
 
 ### [VM 2 (Test)](#vm2)
 
+### [VM 3 (Pre-prop)](#vm3)
+
 ## <p id="vm1">VM 1 (Master)</p>
 
 ### 1. create vm linux-ubuntu-64
@@ -66,3 +68,5 @@ password: เอามาจาก cat /var/lib/jenkins/secrets/initialAdminPass
 ```
 
 ## <p id="vm2">VM 2 (Test)</p>
+
+## <p id="vm3">VM 3 (Pre-Prop)</p>
